@@ -2,3 +2,5 @@ rainy
 summer
 cold
 winter
+spring
+autum
